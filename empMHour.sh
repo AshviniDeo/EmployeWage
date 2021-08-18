@@ -1,8 +1,8 @@
 isPartTime=1
 isFullTime=2
-maxHrsMonth=160
-maxWorkDay=25
-empRateHr=200
+maxHrsMonth=100
+maxWorkDay=20
+empRateHr=20
 totalEmpHr=0
 totalWorkDay=0
 
